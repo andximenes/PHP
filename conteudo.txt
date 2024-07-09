@@ -1,0 +1,58 @@
+Aula 01 - Introdução ao PHP
+Aula 02 - Instalação do XAMPP
+Aula 03 - Criando um novo projeto localhost
+Aula 04 - Sintaxe
+Aula 05 - Variáveis
+Aula 06 - Echo e Print
+Aula 07 - Tipos de Dados
+        - String
+        - Integer
+        - Float
+        - Boolean
+        - Array
+        - Object 
+        - Null
+        
+        var_dump($exemplo) mostra o tipo da variável
+
+        var_dump(is_int($exemplo));
+        var_dump(is_float(%exemplo));
+        var_dump(is_numeric(%exemplo));
+        
+
+
+Aula 08 - Manipulação de String
+        - strlen();
+
+        - str_word_count();
+
+        - strrev(); string reversa
+
+        - strpos(); posição de uma palavra em uma string
+
+        - str_replace(); 
+
+Aula 09 - Manipulação de números
+Aula 10 - Funções Matemáticas
+Aula 11 - Constantes
+Aula 12 - Operadores
+Aula 13 - if Else, Elsif e Switch
+Aula 14 - Loops
+Aula 15 - Funções
+Aula 16 - Arrays (Matrizes)
+
+Aula 17 - Superglobais
+
+Algumas variáveis são predefinidas no PHP são Superglobais, ou seja, você pode invoca-las em qualquer lugar do código.
+
+        $GLOBALS - ok
+        $_SERVER
+        $_REQUEST
+        $_POST
+        
+        $_GET - Pega informação do cabeçalho http da página.
+
+        $_FILES
+        $_ENV
+        $_COOKIE
+        $_SESSION
