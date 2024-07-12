@@ -45,7 +45,7 @@ Aula 17 - Superglobais
 
 Algumas variáveis são predefinidas no PHP são Superglobais, ou seja, você pode invoca-las em qualquer lugar do código.
 
-        $GLOBALS - ok
+        $GLOBALS
         $_SERVER
         $_REQUEST
         $_POST
@@ -56,3 +56,6 @@ Algumas variáveis são predefinidas no PHP são Superglobais, ou seja, você po
         $_ENV
         $_COOKIE
         $_SESSION
+
+Aula 18 - Método $_GET
+Aula 19 - Método $_POST
