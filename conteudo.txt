@@ -59,3 +59,4 @@ Algumas variáveis são predefinidas no PHP são Superglobais, ou seja, você po
 
 Aula 18 - Método $_GET
 Aula 19 - Método $_POST
+Aula 20 - Validação de Formulário
